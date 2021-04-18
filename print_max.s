@@ -1,6 +1,6 @@
 # @author Your Name Here {@literal pluf@wfu.edu}
-# @date Nov. 17, 2020
-# @assignment Lab 7
+# @date Apr. 18, 2021
+# @assignment Lab 8
 # @file print_max.s
 # @course CSC 250
 #
